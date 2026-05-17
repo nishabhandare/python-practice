@@ -1,0 +1,42 @@
+#user input to number of key
+n=int(input("enter total keys: "))
+
+new_value=0
+#create ductionary
+employee={}
+#for loop for user enter multiple keys
+for i in range(n):
+     #user input key and value
+    print(i)
+    key=input("enter key name: ")
+    employee[key]=input("enter value for user key: ")
+#printing a dictionary
+print("\nemployee dictionary with user input key and value ",employee)
+#user input for update a key name
+user_key=input("\nenter key name to update value it:")
+if user_key in employee:
+        print("\nyour entered key is matches in employee keys.")
+        previous_value=input("\nenter already have value: ")
+        if previous_value == employee[user_key]:
+            new_value=input("enter new value: ")
+            if employee[user_key]==previous_value:
+                employee[user_key]=new_value
+                print("updated dictionary: ",employee)
+            print()
+        else:
+            print("\nyour entered value is not match in the employee values.")
+else:
+        print("\nyour entered value is not match in the employee values.")
+#adding a key       
+employee["age"]=35
+print("\nkey is added: ",employee)
+#printing only keys
+print("\nemployee keys: ",employee.keys())
+#printing only values
+print("\nemployee values: ",employee.values())
+#printing a dictionary length 
+print ("\nlength of employee dictionary  ",len(employee))
+#removing a key
+print("\nremoved age key ",employee.pop("age"))
+#print final dictionary 
+print("\nfinal dictionary: ",employee)
