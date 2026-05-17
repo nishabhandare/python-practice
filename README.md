@@ -184,3 +184,38 @@ File
 "advanced_list_operations.py"
 
 
+🔹 Tuple Operations Program
+
+This Python program demonstrates various tuple operations and tuple methods.
+
+Features
+
+- Create a tuple
+- Access tuple elements
+- Find tuple length
+- Check element presence using "in"
+- Concatenate tuples
+- Repeat tuples
+- Count element occurrences
+- Find index of elements
+- Slice tuple elements
+
+Concepts Used
+
+- Python Tuples
+- Tuple Indexing
+- Tuple Slicing
+- Membership Operators
+- Tuple Concatenation
+- Tuple Repetition
+- Tuple Methods
+
+Tuple Methods Used
+
+- "count()"
+- "index()"
+
+File
+
+"tuple_operations.py"
+
