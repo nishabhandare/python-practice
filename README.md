@@ -98,3 +98,50 @@ Concepts Used
 File
 
 "functions_practice.py"
+
+
+📋 List Operations Program
+
+This Python program demonstrates various list operations and built-in list methods.
+
+Features
+
+- Create a list
+- Append elements
+- Copy lists
+- Clear list elements
+- Count elements
+- Extend lists
+- Find index of elements
+- Insert elements
+- Pop elements
+- Remove elements
+- Reverse list
+- Sort list
+
+Concepts Used
+
+- Python Lists
+- List Methods
+- List Manipulation
+- User-Defined Variables
+- Built-in Functions
+
+List Methods Used
+
+- "append()"
+- "copy()"
+- "clear()"
+- "count()"
+- "extend()"
+- "index()"
+- "insert()"
+- "pop()"
+- "remove()"
+- "reverse()"
+- "sort()"
+
+File
+
+"list_operations.py"
+
