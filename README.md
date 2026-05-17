@@ -219,3 +219,38 @@ File
 
 "tuple_operations.py"
 
+🔹 Tuple and Set Operations Program
+
+This Python program demonstrates tuple and set operations using user input.
+
+Features
+
+- Create tuple from user input
+- Access first and last tuple elements
+- Reverse tuple elements
+- Convert tuple into set
+- Remove duplicate values
+- Perform union of sets
+- Sort set elements
+
+Concepts Used
+
+- Python Tuples
+- Python Sets
+- Type Conversion
+- User Input
+- Tuple Slicing
+- Set Operations
+
+Operations Used
+
+- "tuple()"
+- "set()"
+- "len()"
+- Union Operator "|"
+- "sorted()"
+
+File
+
+"tuple_set_operations.py"
+
