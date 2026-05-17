@@ -145,3 +145,42 @@ File
 
 "list_operations.py"
 
+📋 Advanced List Operations Program
+
+This Python program performs multiple list operations using user input.
+
+Features
+
+- Create list using user input
+- Append elements
+- Insert elements at specific index
+- Remove elements
+- Count total elements
+- Find maximum and minimum number
+- Count even and odd numbers
+- Calculate sum of all elements
+- Sort list
+- Reverse list
+
+Concepts Used
+
+- Python Lists
+- Loops
+- Conditional Statements
+- User Input
+- List Methods
+- Mathematical Operations
+
+List Methods Used
+
+- "append()"
+- "insert()"
+- "remove()"
+- "sort()"
+- "reverse()"
+
+File
+
+"advanced_list_operations.py"
+
+
