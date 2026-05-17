@@ -1,12 +1,12 @@
-📘 Employee Dictionary Program
+📘 Employee Dictionary Management Program
 
-A Python practice program based on dictionary operations.
+This Python program stores and manages employee details using dictionaries.
 
 Features
 
-- Store employee details
+- Store employee information
 - Access dictionary values
-- Update employee information
+- Update employee details
 - Display employee records
 
 Concepts Used
@@ -19,3 +19,22 @@ Concepts Used
 File
 
 "employee_dictionary.py"
+
+
+➕ Positive Negative Zero Check Program
+
+This Python program checks whether a number is:
+
+- Positive
+- Negative
+- Zero
+
+Concepts Used
+
+- If-Elif-Else Statements
+- User Input
+- Conditional Checking
+
+File
+
+"positive_negative_zero.py"
