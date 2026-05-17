@@ -1,18 +1,21 @@
-# Python Practice
+📘 Employee Dictionary Program
 
-This repository contains Python practice programs and mini projects.
+A Python practice program based on dictionary operations.
 
-## Program Added
-- Student Dictionary Management
+Features
 
-## Concepts Used
-- Dictionary
-- Update
-- pop()
-- keys()
-- values()
-- items()
-- Loop
+- Store employee details
+- Access dictionary values
+- Update employee information
+- Display employee records
 
-## About Program
-This program demonstrates basic dictionary operations in Python using a student management example.
+Concepts Used
+
+- Python Dictionaries
+- Key-Value Pairs
+- User Input
+- Conditional Statements
+
+File
+
+"employee_dictionary.py"
