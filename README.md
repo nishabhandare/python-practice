@@ -1,51 +1,44 @@
-📘 Employee Dictionary Management Program
+# Python Beginner Practice Programs
 
-This Python program stores and manages employee details using dictionaries.
+This repository contains **30+ beginner-friendly Python programs** created while learning Python step by step.  
+Each program is explained with **Features, Concepts Used, and File Name** in the same structure.
 
-Features
+---
 
+## 📘 Employee Dictionary Management Program
+**Features**
 - Store employee information
 - Access dictionary values
 - Update employee details
 - Display employee records
 
-Concepts Used
-
+**Concepts Used**
 - Python Dictionaries
 - Key-Value Pairs
 - User Input
 - Conditional Statements
 
-File
+**File**: `employee_dictionary.py`
 
-"employee_dictionary.py"
+---
 
-
-➕ Positive Negative Zero Check Program
-
-This Python program checks whether a number is:
-
+## ➕ Positive Negative Zero Check Program
+**Features**
 - Positive
 - Negative
 - Zero
 
-Concepts Used
-
+**Concepts Used**
 - If-Elif-Else Statements
 - User Input
 - Conditional Checking
 
-File
+**File**: `positive_negative_zero.py`
 
-"positive_negative_zero.py"
+---
 
-
-🎓 Student Dictionary Management Program
-
-This Python program demonstrates dictionary operations using student data.
-
-Features
-
+## 🎓 Student Dictionary Management Program
+**Features**
 - Create a student dictionary
 - Update student marks
 - Add new key-value pairs
@@ -53,8 +46,7 @@ Features
 - Display dictionary keys and values
 - Iterate through dictionary items
 
-Concepts Used
-
+**Concepts Used**
 - Python Dictionaries
 - Key-Value Pairs
 - Dictionary Methods
@@ -62,50 +54,38 @@ Concepts Used
 - Updating Data
 - Data Access
 
-Dictionary Methods Used
+**Dictionary Methods Used**
+- `pop()`
+- `keys()`
+- `values()`
+- `items()`
+- `len()`
 
-- "pop()"
-- "keys()"
-- "values()"
-- "items()"
-- "len()"
+**File**: `student_dictionary_management.py`
 
-File
+---
 
-"student_dictionary_management.py"
-
-
-🔧 Python Functions Practice Program
-
-This Python program demonstrates the use of functions in Python.
-
-Features
-
+## 🔧 Python Functions Practice Program
+**Features**
 - Function Creation
 - Function Calling
 - Parameter Passing
 - Returning Values
 - Mathematical Operations using Functions
 
-Concepts Used
-
+**Concepts Used**
 - Python Functions
 - Arguments and Parameters
 - Return Statement
 - User-Defined Functions
 - Function Calling
 
-File
+**File**: `functions_practice.py`
 
-"functions_practice.py"
+---
 
-
-📋 List Operations Program
-
-This Python program demonstrates various list operations and built-in list methods.
-
-Features
-
+## 📋 List Operations Program
+**Features**
 - Create a list
 - Append elements
 - Copy lists
@@ -119,38 +99,32 @@ Features
 - Reverse list
 - Sort list
 
-Concepts Used
-
+**Concepts Used**
 - Python Lists
 - List Methods
 - List Manipulation
 - User-Defined Variables
 - Built-in Functions
 
-List Methods Used
+**List Methods Used**
+- `append()`
+- `copy()`
+- `clear()`
+- `count()`
+- `extend()`
+- `index()`
+- `insert()`
+- `pop()`
+- `remove()`
+- `reverse()`
+- `sort()`
 
-- "append()"
-- "copy()"
-- "clear()"
-- "count()"
-- "extend()"
-- "index()"
-- "insert()"
-- "pop()"
-- "remove()"
-- "reverse()"
-- "sort()"
+**File**: `list_operations.py`
 
-File
+---
 
-"list_operations.py"
-
-📋 Advanced List Operations Program
-
-This Python program performs multiple list operations using user input.
-
-Features
-
+## 📋 Advanced List Operations Program
+**Features**
 - Create list using user input
 - Append elements
 - Insert elements at specific index
@@ -162,8 +136,7 @@ Features
 - Sort list
 - Reverse list
 
-Concepts Used
-
+**Concepts Used**
 - Python Lists
 - Loops
 - Conditional Statements
@@ -171,37 +144,30 @@ Concepts Used
 - List Methods
 - Mathematical Operations
 
-List Methods Used
+**List Methods Used**
+- `append()`
+- `insert()`
+- `remove()`
+- `sort()`
+- `reverse()`
 
-- "append()"
-- "insert()"
-- "remove()"
-- "sort()"
-- "reverse()"
+**File**: `advanced_list_operations.py`
 
-File
+---
 
-"advanced_list_operations.py"
-
-
-🔹 Tuple Operations Program
-
-This Python program demonstrates various tuple operations and tuple methods.
-
-Features
-
+## 🔹 Tuple Operations Program
+**Features**
 - Create a tuple
 - Access tuple elements
 - Find tuple length
-- Check element presence using "in"
+- Check element presence using `in`
 - Concatenate tuples
 - Repeat tuples
 - Count element occurrences
 - Find index of elements
 - Slice tuple elements
 
-Concepts Used
-
+**Concepts Used**
 - Python Tuples
 - Tuple Indexing
 - Tuple Slicing
@@ -210,21 +176,16 @@ Concepts Used
 - Tuple Repetition
 - Tuple Methods
 
-Tuple Methods Used
+**Tuple Methods Used**
+- `count()`
+- `index()`
 
-- "count()"
-- "index()"
+**File**: `tuple_operations.py`
 
-File
+---
 
-"tuple_operations.py"
-
-🔹 Tuple and Set Operations Program
-
-This Python program demonstrates tuple and set operations using user input.
-
-Features
-
+## 🔹 Tuple and Set Operations Program
+**Features**
 - Create tuple from user input
 - Access first and last tuple elements
 - Reverse tuple elements
@@ -233,8 +194,7 @@ Features
 - Perform union of sets
 - Sort set elements
 
-Concepts Used
-
+**Concepts Used**
 - Python Tuples
 - Python Sets
 - Type Conversion
@@ -242,15 +202,43 @@ Concepts Used
 - Tuple Slicing
 - Set Operations
 
-Operations Used
+**Operations Used**
+- `tuple()`
+- `set()`
+- `len()`
+- Union Operator `|`
+- `sorted()`
 
-- "tuple()"
-- "set()"
-- "len()"
-- Union Operator "|"
-- "sorted()"
+**File**: `tuple_set_operations.py`
 
-File
+---
 
-"tuple_set_operations.py"
+## 🏷️ Class & OOP Programs
+**Features**
+- Simple class example
+- Class with a function
+- Class with function using parameters
+- Class with `__init__()` method
+- Class with `__init__()` and parameters
+- Class with `__init__()` and default values
+- Class with `self` keyword
 
+**Concepts Used**
+- Python Classes
+- Objects
+- Constructors
+- Parameters
+- Self keyword
+- Basic OOP Concepts
+
+**File**: `classex.py`
+
+---
+
+## ▶️ How to Run
+Run any program using Python:
+
+```bash
+python employee_dictionary.py
+python list_operations.py
+python classex.py
