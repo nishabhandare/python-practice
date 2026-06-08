@@ -242,3 +242,36 @@ Run any program using Python:
 python employee_dictionary.py
 python list_operations.py
 python classex.py
+
+
+## Single Inheritance Program
+Single Inheritance Program
+Features
+
+Demonstrates single inheritance in Python
+
+Shows how constructors work in parent and child classes
+
+Explains calling parent constructor using class name
+
+Explains calling parent constructor using super()
+
+Includes simple method inheritance examples
+
+Concepts Used
+
+Python Classes and Objects
+
+Constructors (__init__)
+
+self keyword
+
+Inheritance (Parent → Child)
+
+Constructor Overriding
+
+super() keyword
+
+Method Inheritance
+
+File: single_inheritance.py
